@@ -25,4 +25,5 @@ If make/configure aren't working for you, you can go super manual mode and compi
 1. `./sutry [admin command]`
 
 ###### Credits
-Thanks to @sebuckler and @xuffins for the idea. Makefile generated following this [tutorial](https://thoughtbot.com/blog/the-magic-behind-configure-make-make-install).
+Thanks to [@sebuckler](https://github.com/sebuckler) and @xuffins for the idea. 
+Makefile generated following this [tutorial](https://thoughtbot.com/blog/the-magic-behind-configure-make-make-install).
