@@ -23,3 +23,6 @@ Should be compatible with anything supporting configure and make.
 If make/configure aren't working for you, you can go super manual mode and compile it yourself:
 1. `gcc -o sutry main.c`
 1. `./sutry [admin command]`
+
+###### Credits
+Thanks to @sebuckler and @xuffins for the idea. Makefile generated following this [tutorial](https://thoughtbot.com/blog/the-magic-behind-configure-make-make-install).
